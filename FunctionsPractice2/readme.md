@@ -1,10 +1,10 @@
-# CodePortfolio
+# Functions Practice 2
 
-This Repository Contains Practice Code and Small Projects I Have Created. 
+A Simple Function that Generates and Returns a Random Number. 
 
-# Project Folders
+# How to Run
 
-1. [FunctionsPractice2](FunctionsPractice2) - A Simple Function that Generates and Returns a Random Number. 
+Just use any live server extension with VS Code. For example "Live Preview". The output will come in the developer console.
 
 # Hire Me
 
