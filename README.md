@@ -10,7 +10,7 @@ This Repository Contains Practice Code and Small Projects I Have Created.
 
 My name is Nikhil Fenwick. 
 
-I am a Computer Science graduate from the University of Westminster (2021). As of now I am focusing on Web Development and seeking a job as a Junior Software Developer. 
+I am a Computer Science graduate from the University of Westminster (2022). As of now I am focusing on Web Development and seeking a job as a Junior Software Developer. 
 
 # Contact Details
 
